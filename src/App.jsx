@@ -17,12 +17,12 @@ function App() {
         <form>
           <div className="actions">
             <button type="button">
-              <ArrowLeft size={32} color="#802323" weight="duotone" />
+              <ArrowLeft size={28} color="#000" />
               <span>Voltar</span>
             </button>
             <button type="submit">
               <span>Continuar</span>
-              <ArrowRight size={32} color="#802323" weight="duotone" />
+              <ArrowRight size={28} color="#000" />
             </button>
           </div>
         </form>

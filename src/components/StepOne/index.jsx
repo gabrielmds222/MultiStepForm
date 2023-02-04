@@ -3,7 +3,8 @@ import React from "react";
 const StepOne = () => {
   return (
     <div>
-      <h1>primeiro passo</h1>
+      <input type="email" />
+      <input type="password" />
     </div>
   );
 };
